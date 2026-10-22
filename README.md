@@ -1,33 +1,19 @@
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║                   SAJID SHAH | GITHUB PROFILE               ║
-║               AI Research • Computer Science                ║
-╚══════════════════════════════════════════════════════════════╝
--->
-
-<div align="center">
+ <div align="center">
 
 # Sajid Shah
+### AI Researcher · Computer Science · Bioinformatics · Cybersecurity
 
-### AI Researcher · Computer Science Educator · Research Assistant
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Deep+Learning;AI+for+Healthcare+%26+Multi-Omics;Graph+Neural+Networks+%26+Bioinformatics;Automotive+Cybersecurity+%26+XAI;Industrial+IoT+%26+Intelligent+Systems" alt="Animated research interests" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+for+Real-World+Impact;AI+%7C+Deep+Learning+%7C+Bioinformatics;Multi-Omics+Cancer+Classification;Automotive+Cybersecurity+%26+Intrusion+Detection;Researching+the+Future+of+Agentic+AI" alt="Animated research interests" />
+<p>
+  <a href="https://orcid.org/0009-0006-9980-101X"><img src="https://img.shields.io/badge/ORCID-0009--0006--9980--101X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="mailto:sajidshah232@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/sajidshah232"><img src="https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-<br/>
+**Researching intelligent systems. Building practical solutions. Sharing knowledge.**
 
-<a href="https://orcid.org/0009-0006-9980-101X">
-  <img src="https://img.shields.io/badge/ORCID-Researcher- A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
-</a>
-<a href="mailto:sajidshah232@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br/><br/>
-
-*Advancing intelligent computing through research, experimentation, and innovation.*
+📍 Johor Bahru, Malaysia · 🎓 Universiti Teknologi Malaysia
 
 </div>
 
@@ -35,211 +21,374 @@
 
 ## 👨‍🔬 About Me
 
-I am **Sajid Shah**, a Computer Science researcher, educator, and research assistant at **Universiti Teknologi Malaysia (UTM)**, working at the intersection of Artificial Intelligence, Deep Learning, Computational Biology, and Cybersecurity.
+I am **Sajid Shah**, a Computer Science researcher, educator, and technology professional pursuing a **Master of Philosophy in Computer Science by research at Universiti Teknologi Malaysia (UTM)**, with completion expected in 2026.
 
-My research focuses on developing intelligent, data-driven models that address challenging real-world problems, particularly in healthcare and intelligent transportation systems. I am especially interested in combining advanced machine learning techniques, feature selection, graph-based learning, and explainable AI to build effective and interpretable computational solutions.
+My work brings together Artificial Intelligence, Machine Learning, Deep Learning, Bioinformatics, Cybersecurity, Industrial Internet of Things (IIoT), and Information Systems. I am particularly interested in developing data-driven computational models that address real-world challenges in healthcare, intelligent transportation, manufacturing, and emerging technologies.
 
-Beyond research, I contribute to computer science education, academic writing, collaborative research, and the development of practical technology solutions.
+My research experience includes multi-omics cancer subtype classification, graph-based deep learning, explainable intrusion detection, and IIoT adoption models. Alongside research, I have contributed to university teaching, academic publishing, research project coordination, cybersecurity risk assessment, data analytics, and web development.
 
-- 🎓 **Academic background:** Master of Philosophy in Computer Science by research, UTM.
-- 🧠 **Research focus:** Artificial Intelligence, Machine Learning, Deep Learning, and Graph Neural Networks.
-- 🧬 **Healthcare AI:** Multi-omics integration and cancer molecular subtype classification.
-- 🔐 **Cybersecurity:** Deep learning-based intrusion detection for automotive CAN/CAN-FD networks.
-- 🤖 **Emerging technologies:** Agentic AI acceptance and adoption.
-- 👨‍🏫 **Academic contribution:** Lecturer, Teaching Assistant, and Graduate Research Assistant.
-- 🌱 **Currently exploring:** Efficient AI architectures, explainable machine learning, and translational AI research.
-- 🤝 **Open to:** Research collaborations, interdisciplinary projects, and opportunities to develop impactful AI solutions.
+- 🔬 **Research:** AI, deep learning, graph neural networks, bioinformatics, and cybersecurity.
+- 🧬 **Healthcare AI:** Multi-omics integration and breast cancer molecular subtype classification.
+- 🛡️ **Automotive security:** CAN/CAN-FD intrusion detection and explainable AI.
+- 🏭 **Industrial AI:** IIoT adoption, readiness, and intelligent manufacturing.
+- 🤖 **Emerging technologies:** Agentic AI, AI agents, and intelligent decision-support systems.
+- 👨‍🏫 **Education:** Computer Science teaching, student mentoring, and academic support.
+- 💻 **Development:** Python, C++, R, MATLAB, web technologies, and data analytics.
+- 🤝 **Collaboration:** Interested in interdisciplinary research and impactful technology projects.
 
-> *My goal is to bridge the gap between computational research and practical, explainable, and impactful AI applications.*
+> My goal is to connect rigorous research with practical, efficient, and interpretable computing solutions.
 
 ---
 
 ## 🧭 Research Interests
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| 🧬 Healthcare & Bioinformatics | 🛡️ Intelligent Cybersecurity |
-|:---|:---|
-| Multi-omics data integration | Automotive CAN/CAN-FD intrusion detection |
-| Cancer molecular subtype classification | Deep learning for attack detection |
-| Graph neural networks | Feature selection and class imbalance |
-| AI-driven biomarker discovery | Explainable AI for cybersecurity |
+### 🧬 AI for Healthcare
 
-| 🤖 Emerging AI | 🎓 Research & Education |
-|:---|:---|
-| Agentic AI acceptance and adoption | AI-assisted learning and decision support |
-| Explainable and trustworthy AI | Educational technology |
-| Efficient deep learning | Research methodology and data analysis |
-| Intelligent decision-support systems | AI applications in real-world domains |
+- Multi-omics data integration
+- Breast cancer molecular subtype classification
+- Graph neural networks
+- Feature selection and dimensionality reduction
+- Computational biology and bioinformatics
+- AI-driven biomarker discovery
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Cybersecurity & XAI
+
+- Automotive CAN/CAN-FD intrusion detection
+- Machine learning-based threat detection
+- Explainable AI
+- Security risk assessment
+- Network security and data analysis
+- Intelligent security frameworks
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏭 Industrial IoT & Information Systems
+
+- Industrial IoT adoption and readiness
+- Manufacturing and production SMEs
+- AIoT architecture
+- Remote patient monitoring
+- Technology adoption models
+- Cloud computing and resource scheduling
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Emerging AI & Data Science
+
+- Agentic AI acceptance and adoption
+- AI agents and intelligent systems
+- Machine learning model evaluation
+- Statistical analysis and data visualization
+- Predictive modeling
+- Research synthesis and bibliometric analysis
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Research & Projects
 
-### 01 · 🧬 Multi-Omics Cancer Classification
+### 01. 🧬 Multi-Omics Breast Cancer Classification
 
-**Research area:** Artificial Intelligence for Computational Oncology
+**Research focus:** Graph-based deep learning for computational oncology.
 
-Developing graph-based deep learning approaches to classify breast cancer molecular subtypes by integrating multiple omics modalities.
+Developing computational approaches for classifying breast cancer molecular subtypes using integrated multi-omics data.
 
-- Multi-omics data integration: CNV, DNA methylation, mRNA, miRNA, and RPPA.
-- Graph attention and spatial graph learning.
-- Feature selection and class-imbalance handling.
-- Evaluation of predictive performance across datasets.
+**Research components**
+- Multi-omics integration: CNV, DNA methylation, mRNA, miRNA, and RPPA.
+- Graph convolutional and graph attention-based learning.
+- Feature selection using LSVM-RFE.
+- Multiclass class-imbalance handling using MC-SMOTE.
+- Model evaluation and comparison of omics data types and combinations.
 
-**Core technologies:** Python · Machine Learning · Deep Learning · Graph Neural Networks · Bioinformatics
+**Related research:** *An Enhanced MC-SGAN Framework with LSVM-RFE and MC-SMOTE for Breast Cancer Molecular Subtypes Classification using Multi-Omics Data.*
 
-### 02 · 🛡️ Automotive Cybersecurity & CAN-FD Intrusion Detection
+**Status:** Manuscript listed as under review in my CV.
 
-**Research area:** Intelligent Intrusion Detection Systems
+**Technologies:** Python · Deep Learning · Graph Neural Networks · Bioinformatics · Machine Learning
 
-Investigating deep learning frameworks for detecting malicious activities in in-vehicle communication networks.
+[View my repositories](https://github.com/sajidshah232?tab=repositories)
 
+---
+
+### 02. 🛡️ Explainable AI for Automotive Intrusion Detection
+
+**Research focus:** Intelligent cybersecurity for connected vehicles.
+
+Researching an explainable AI-based intrusion detection framework for automotive communication networks.
+
+**Research components**
 - CAN/CAN-FD traffic analysis.
 - Feature engineering and selection.
-- Imbalanced attack-class detection.
-- Explainable AI and lightweight deployment considerations.
+- Deep learning-based attack detection.
+- Class imbalance and evaluation.
+- Explainable predictions for security analysis.
 
-**Core technologies:** Python · Deep Learning · Cybersecurity · Data Analytics · Explainable AI
+**Status:** Research project listed as in progress in my CV.
 
-### 03 · 🤖 Agentic AI Technologies Acceptance Model (AAAM)
+**Technologies:** Python · Machine Learning · Deep Learning · Cybersecurity · Explainable AI
 
-**Research area:** AI Adoption & Technology Management
-
-Developing a conceptual model to understand the factors influencing the acceptance and adoption of advanced agentic AI technologies.
-
-The proposed framework integrates six dimensions:
-
-`Technology` · `Organization` · `Governance` · `Process` · `Environment` · `Individual`
-
-- Integration of technology acceptance and adoption theories.
-- Identification and organization of relevant adoption factors.
-- Conceptual framework development.
-- Future opportunities for empirical validation.
-
-**Core areas:** Agentic AI · Technology Acceptance · AI Governance · Research Synthesis
-
-### 04 · ⚡ Efficient & Explainable AI
-
-Exploring methods to improve the efficiency, interpretability, and practical applicability of machine learning models.
-
-- Feature selection and dimensionality reduction.
-- Model optimization and computational efficiency.
-- Explainability and trustworthy predictions.
-- Applications in healthcare and cybersecurity.
-
-<div align="center">
-
-**Interested in collaborating on any of these research areas?**
-
-<a href="mailto:sajidshah232@gmail.com">
-  <img src="https://img.shields.io/badge/Let's_Collaborate-Contact_Me-238636?style=for-the-badge&logo=maildotru&logoColor=white" alt="Collaborate" />
-</a>
-
-</div>
+[Explore my repositories](https://github.com/sajidshah232?tab=repositories)
 
 ---
 
-## 🧰 Technology Stack
+### 03. 🏭 Industrial IoT Adoption & Readiness
 
-### Programming & Data Science
+**Research focus:** Understanding technology adoption in manufacturing and production SMEs.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,mysql,git,github,vscode&theme=dark" alt="Programming and development tools" />
-</p>
+Research on factors influencing Industrial IoT adoption, readiness, and implementation in organizational settings.
 
-### Artificial Intelligence & Machine Learning
+**Research contributions**
+- IIoT adoption models.
+- Technology readiness and influencing factors.
+- Manufacturing and production SME contexts.
+- Statistical analysis and research-based decision support.
 
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-</p>
+**Related publication:** *Factors Influencing the Adoption of Industrial Internet of Things for the Manufacturing and Production Small and Medium Enterprises in Developing Countries.*
 
-### Research & Computational Methods
+**Related publication:** *Bridging the Gap: Empowering Manufacturing and Production Small Medium Enterprises through Industrial Internet of Things Adoption Model.*
 
-<p>
-<img src="https://img.shields.io/badge/Deep_Learning-Graph_Neural_Networks-1F6FEB?style=for-the-badge" alt="Deep learning and graph neural networks" />
-<img src="https://img.shields.io/badge/Bioinformatics-Multi--Omics-238636?style=for-the-badge" alt="Bioinformatics and multi-omics" />
-<img src="https://img.shields.io/badge/Explainable_AI-Interpretability-8957E5?style=for-the-badge" alt="Explainable AI" />
-<img src="https://img.shields.io/badge/Cybersecurity-Intrusion_Detection-D73A49?style=for-the-badge" alt="Cybersecurity" />
-</p>
-
-*The badges represent technologies and research methods relevant to my work. Specific tools and frameworks may vary by project.*
+**Technologies:** Industrial IoT · Information Systems · Data Analysis · Research Methodology
 
 ---
 
-## 📊 GitHub Analytics
+### 04. 💡 ComReF — Computing Field Recommendation Framework
+
+**Project focus:** Computing education and student decision support.
+
+A completed freelance project listed in my CV, focused on recommending computing fields.
+
+**Project interests**
+- Computing field recommendation.
+- Student decision support.
+- Computing education and career exploration.
+
+**Status:** Completed in 2026, according to my CV.
+
+**Project repository/demo:** Add the verified project URL here.
+
+---
+
+### 05. 🌐 Web Development Projects
+
+Academic and software development projects completed during my Computer Science studies.
+
+| Project | Technologies | Status |
+|---|---|---|
+| UTM Meranti Food Ordering System | PHP, MySQL, JavaScript, HTML, C | Completed |
+| Student Accommodation Web-Based System | PHP, MySQL, JavaScript, HTML, CSS | Completed |
+| Gerakan Pengguna Siswa UTM E-Commerce System | Java Servlet, JSP, MySQL Workbench | Completed |
+
+These projects reflect my experience in web development, database management, system implementation, and application design.
+
+**Repository links:** Add the corresponding repositories when publicly available.
+
+---
+
+## 🧰 Technical Skills
+
+### Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+### AI, Machine Learning & Data Science
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
+</p>
+
+### Web Development & Databases
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+### Development, Analytics & Research Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+</p>
+
+**Additional tools:** Alteryx, SPSS, SmartPLS, RStudio, Jupyter Notebook, MySQL Workbench, Postman, Firebase, Cisco Packet Tracer, Wireshark, Nmap, VOSviewer, Zotero, Mendeley, EndNote, LaTeX, and WordPress.
+
+---
+
+## 📚 Selected Publications
+
+My research outputs cover AI-driven cancer classification, multi-omics, Industrial IoT adoption, AIoT architecture, and computational methods.
+
+| Year | Publication | Venue |
+|---|---|---|
+| 2026 | Recent Advancements in Artificial Intelligence-Driven Breast Cancer Molecular Subtypes Classification using Multi-Omics: A Comprehensive Review | Engineering Applications of Artificial Intelligence |
+| 2026 | Multi-Omics Integration Methods for AI-Based Breast Cancer Molecular Subtypes Classification | International Journal of Advanced Science and Computer Applications |
+| 2026 | Optimizing the Multi-Omics Data Types and Variant Combinations for Accurate Breast Cancer Molecular Subtypes Classification | International Journal of Advanced Science and Computer Applications |
+| 2025 | Bridging the Gap: Empowering Manufacturing and Production Small Medium Enterprises through Industrial Internet of Things Adoption Model | IET Collaborative Intelligent Manufacturing |
+| 2025 | Requirements Evaluation Framework for a Phase-Driven AIoT Architecture for Remote Patient Monitoring | The Journal of Engineering |
+| 2024 | Factors Influencing the Adoption of Industrial Internet of Things for the Manufacturing and Production Small and Medium Enterprises in Developing Countries | IET Collaborative Intelligent Manufacturing |
+| 2023 | Assessing the Prioritization of Key Influencing Factors for Industrial IoT Readiness in SMEs | Springer conference proceedings |
+
+*The list is selective, not exhaustive. Check the original publications for final bibliographic details, author lists, and publication status.*
+
+### Academic Profiles
+
+<p>
+<a href="https://orcid.org/0009-0006-9980-101X"><img src="https://img.shields.io/badge/ORCID-Research_Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+<a href="https://scholar.google.com/scholar?q=%22Sajid+Shah%22+%22Universiti+Teknologi+Malaysia%22"><img src="https://img.shields.io/badge/Google_Scholar-Find_Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+<a href="https://www.scopus.com/search/form.uri?display=basic"><img src="https://img.shields.io/badge/Scopus-Research_Database-E9711C?style=for-the-badge" alt="Scopus"/></a>
+</p>
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+<a href="https://github.com/sajidshah232">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sajidshah232&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+<a href="https://github.com/sajidshah232">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidshah232&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
 </a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
+<img src="https://streak-stats.demolab.com?user=sajidshah232&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sajidshah232&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity"/>
 
 </div>
 
 ---
 
-## 🏆 Research & Professional Highlights
+## 🏆 Achievements & Recognition
 
-- 🔬 Research experience in AI-driven healthcare, multi-omics analysis, and intelligent cybersecurity.
-- 📚 Research publications across peer-reviewed journals, including Q1/Q2 publications as reported in my academic profile.
-- 🧑‍🏫 Experience in university teaching, laboratory support, and undergraduate and diploma-level Computer Science education.
-- 🏅 Recognition through research presentation and industry-related awards.
-- 🌍 Experience in academic collaboration, research leadership, and technology-oriented initiatives.
-
-*For verified publication lists, citation metrics, and individual research outputs, please refer to my linked academic profiles.*
+- 🥇 **Industry Choice Award** — 8th International Undergraduate Research Conference (IURC 2024), UTM.
+- 🎤 **Best Presenter Award** — IURC 2024, UTM.
+- 📖 **Top Cited Article recognition** — Wiley, 2026, as listed in my CV.
+- 🎓 **ASPIRE Leadership Programme** — Leadership development programme, 2026.
+- 🏅 **Dean's List Awards** — Software Engineering, 2021 and 2022.
+- 💻 **Second Runner-Up** — Rapid Bus × UTM Data Hackathon 2023.
+- 🌐 **Research leadership** — Vice Chairman, Postgraduate Annual Research Seminar (PARS 2025).
+- 🧑‍🏫 **Academic contribution** — Teaching, research support, peer review, research coordination, and technical training.
 
 ---
 
-## 📚 Publications & Academic Profiles
+## 🎓 Teaching & Academic Contributions
 
-My research interests span computational oncology, multi-omics classification, graph-based deep learning, cybersecurity, and emerging AI technologies.
+My teaching and academic support experience spans diploma and undergraduate Computer Science education.
 
-- **ORCID:** [0009-0006-9980-101X](https://orcid.org/0009-0006-9980-101X)
-- **Google Scholar:** [Find my research profile](https://scholar.google.com/scholar?q=%22Sajid+Shah%22+%22Universiti+Teknologi+Malaysia%22)
-- **Email:** [sajidshah232@gmail.com](mailto:sajidshah232@gmail.com)
+**Subjects include:**
+
+- Data Structures and Algorithms
+- Computer Security and Principles of Cybersecurity
+- Computer Graphics
+- Database Management
+- Artificial Intelligence
+- Bioinformatics Modelling and Simulation
+- Operating Systems
+- Network and Security
+- Programming Techniques
+- Mathematics for Software Engineering
+- Software Engineering
+
+I am also interested in academic mentoring, student project development, research methodology, scientific writing, and helping students develop practical technical skills.
+
+---
+
+## 🌍 Professional Experience
+
+- **Part-Time Lecturer** — UTM SPACE, Universiti Teknologi Malaysia.
+- **Teaching Assistant** — Faculty of Computing, Universiti Teknologi Malaysia.
+- **Research Assistant** — FRGS-funded multi-omics cancer classification project.
+- **Research Assistant** — Industrial IoT adoption research project.
+- **Research Assistant** — XAI-based automotive intrusion detection research.
+- **Cybersecurity Design Validation & Assurance Intern** — PETRONAS Digital.
+- **Strategy Analyst Intern** — Urooj Insights Pte Ltd.
+- **Research and Development Director (Part-time)** — Elite Global Excellence Sdn. Bhd.
+- **Website Developer** — Majlis Perwakilan Mahasiswa, UTM.
+
+My wider experience also includes web content management, social media marketing, website development, data visualization, and video production.
+
+---
+
+## 🧑‍💼 Leadership & Research Service
+
+- Vice President, Postgraduate Students Society (PGSS), Faculty of Computing, UTM — 2025/2026.
+- General Secretary, PGSS, Faculty of Computing, UTM — 2024/2025.
+- Vice Chairman, PARS 2025.
+- Research article reviewer for journals including PLOS ONE and Discover Applied Sciences.
+- Coordinator for academic conferences and research events.
+- Trainer in practical AI applications for medical and dental image classification.
+- Research speaker at the Faculty of Computing Research & Innovation Day.
+
+---
+
+## 🌐 Languages
+
+- English
+- Pashto
+- Urdu
+- Hindi
+- Malay
 
 ---
 
 ## 🤝 Let's Connect
 
-I welcome opportunities to connect with researchers, academics, developers, and students interested in advancing AI and computational research.
+I welcome opportunities to collaborate with researchers, academics, developers, and students working on meaningful technology challenges.
 
-Whether it is a research collaboration, an interesting machine learning problem, an academic discussion, or an open-source project, I am always interested in meaningful knowledge exchange.
+Whether you are interested in healthcare AI, multi-omics, graph neural networks, automotive cybersecurity, Industrial IoT, or research collaboration, feel free to connect.
 
 <div align="center">
 
-<a href="mailto:sajidshah232@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Sajid_Shah-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sajid Shah" />
-</a>
-<a href="https://orcid.org/0009-0006-9980-101X">
-  <img src="https://img.shields.io/badge/ORCID-0009--0006--9980--101X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID profile" />
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
+<a href="mailto:sajidshah232@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://orcid.org/0009-0006-9980-101X"><img src="https://img.shields.io/badge/ORCID-My_Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+<a href="https://github.com/sajidshah232"><img src="https://img.shields.io/badge/GitHub-My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
-### *Research with purpose. Build with intelligence. Innovate for impact.*
+**Research with purpose. Code with curiosity. Innovate for impact.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=120&section=footer" width="100%" alt="Decorative blue-gray footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=120&section=footer" width="100%" alt="Blue gradient footer"/>
 
 </div>
